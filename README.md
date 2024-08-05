@@ -5,7 +5,6 @@ The fruit landing page provides information related to fruits that are eaten whe
 ## List of Features
 
 - **Responsive Fruit Website Design Using HTML, CSS & JavaScript**
-- **Animations on Scroll**
 - **Smooth Scrolling in Each Section**
 - **Dark & Light Theme**
 - **Mobile First Methodology, Then for Desktop**
