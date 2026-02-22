@@ -1,5 +1,5 @@
 # Responsive-Fruit-Landing-Page
-
+https://nityam-responsive-landing-page.netlify.app/
 The fruit landing page provides information related to fruits that are eaten when relaxing. It also provides some popular products related to fruit, and you can subscribe to get more information for your fruit needs. Additionally, it includes information on companies that provide fruits online.
 
 ## List of Features
@@ -10,3 +10,4 @@ The fruit landing page provides information related to fruits that are eaten whe
 - **Mobile First Methodology, Then for Desktop**
 - **Compatible with All Mobile Devices**
 - **Beautiful and Pleasant User Interface**
+
